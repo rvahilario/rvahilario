@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Renan Hilário!</h1>
-<h3 align="center">A passione dev student living in Brazil!</h3>
+<h2 align="left">Hi 👋, I'm Renan Hilário!</h2>
+<h4 align="left">A passione dev student living in Brazil!</h4>
 
 <br>
 
