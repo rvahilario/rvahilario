@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋, I'm Renan Hilário!</h2>
 <h4 align="left">A passione dev student living in Brazil!</h4>
 
-<br>
 
 - 🔭 I’m currently working on an Intelie, a Viasat company where data becomes result | <a href="https://www.intelie.ai/" target="_blank"><img src="https://www.intelie.ai/wp-content/themes/intelie/dist/images/logo-dark.svg" alt="intelie" width="" height="10"/></a>
 
