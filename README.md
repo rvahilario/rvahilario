@@ -11,6 +11,8 @@
 
 - ⚡ **Living in Rio de Janeiro and soccer fan!**
 
+- 🎮 **Gamer!**
+
 <br>
 
 <div align="center">
@@ -20,7 +22,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech stack under study
+## 🛠 &nbsp;Techs under study
 
 <p align="left">
 	<a href="https://reactjs.org/" target="_blank">		
