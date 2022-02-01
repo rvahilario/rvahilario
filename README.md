@@ -2,7 +2,7 @@
 <h4 align="left">A passione dev student living in Brazil!</h4>
 
 
-- 🔭 I’m currently working on an Intelie, a Viasat company where data becomes result | <a href="https://www.intelie.ai/" target="_blank"><img src="https://www.intelie.ai/wp-content/themes/intelie/dist/images/logo-dark.svg" alt="intelie" width="" height="10"/></a>
+- 🔭 I’m currently working on an Intelie, a Viasat company where data becomes result | <a href="https://www.intelie.ai/" target="_blank"><img align="bottom" src="https://media-exp1.licdn.com/dms/image/C560BAQE-FsaWbzm0nQ/company-logo_100_100/0/1640633663467?e=1651708800&v=beta&t=NS84jD4mMpczVO9UGcHEWO-AL6Wyh4pqsOlvVsHzKyg" alt="intelie" width="" height="30"/></a>
 
 - 🌱 I’m currently learning more about **React**
 
