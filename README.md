@@ -31,6 +31,32 @@
 			width="40"
 			height="40"
 		/>
+	</a> 
+  <a href="https://jestjs.io/pt-BR/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+			alt="jest"
+			width="40"
+			height="40"
+		/>
+	</a>
+  <a href="https://testing-library.com/" target="_blank">
+		<img
+			src="https://testing-library.com/img/octopus-128x128.png"
+			alt="react-testing-library"
+			width="40"
+			height="40"
+		/>
+	</a>  
+  <a href="https://www.typescriptlang.org/"
+		target="_blank"
+	>		
+		<img
+			src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+			alt="typescript"
+			width="40"
+			height="40"
+		/>
 	</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 		target="_blank"
@@ -121,7 +147,7 @@
 			width="40"
 			height="40"
 		/>
-	</a> 
+	</a>
 </p>
 
 <!-- #
