@@ -1,16 +1,16 @@
 <h2 align="left">Hi 👋, I'm Renan Hilário!</h2>
-<h4 align="left">A passione dev student living in Brazil!</h4>
+<h4 align="left">A passionate dev residing in Brazil!</h4>
 
 
-- 🔭 I’m currently an intern at Intelie, a Viasat company where data becomes result | <a href="https://www.intelie.ai/" target="_blank"><img align="bottom" src="https://media-exp1.licdn.com/dms/image/C560BAQE-FsaWbzm0nQ/company-logo_100_100/0/1640633663467?e=1651708800&v=beta&t=NS84jD4mMpczVO9UGcHEWO-AL6Wyh4pqsOlvVsHzKyg" alt="intelie" width="" height="30"/></a>
+- 🔭 Currently, I'm working as a **Jr. Software Engineer** at <a href="https://www.intelie.ai/" target="_blank">Intelie</a>, a Viasat company where data becomes result!
 
-- 🌱 At moment I’m dedicate to learn more about **React**
+- 🌱 I'm dedicating my time to expand my knowledge in both frontend (React) and backend (Node.js)
 
-- 📫 You can reach me here <a href="https://www.linkedin.com/in/renan-hilario/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="" height="15"/></a>
+- 📫 Feel free to connect with me on LinkedIn | <a href="https://www.linkedin.com/in/renan-hilario/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="" height="15"/></a>
 
-- ⚡ **Living in Rio de Janeiro and soccer fan!**
+- ⚡ Based in the vibrant city of **Rio de Janeiro** and a soccer fan! **✠ VASCO ✠**
 
-- 🎮 **Gamer!**
+- 🎮 **Avid gamer, always ready for a new challenge!**
 
 <br>
 
